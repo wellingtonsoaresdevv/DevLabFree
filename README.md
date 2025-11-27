@@ -19,9 +19,9 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 
 > A proposta deste repositório é disponibilizar conteúdos gratuitos para apoiar seus estudos em tecnologia e programação, ajudando você a entender qual pode ser o próximo passo da sua jornada de aprendizado — sem se perder em modas passageiras ou “hypes” do momento.
 
-Acreditamos que, com um conhecimento mais amplo sobre linguagens, ferramentas e diferentes áreas da TI, você poderá fazer escolhas mais inteligentes sobre quais tecnologias fazem sentido para o seu futuro profissional.
+> Acreditamos que, com um conhecimento mais amplo sobre linguagens, ferramentas e diferentes áreas da TI, você poderá fazer escolhas mais inteligentes sobre quais tecnologias fazem sentido para o seu futuro profissional.
 
-Lembre-se: seguir tendências pode ser interessante, mas sólidos fundamentos sempre serão seu maior diferencial.
+> Lembre-se: seguir tendências pode ser interessante, mas sólidos fundamentos sempre serão seu maior diferencial.
 
 ## :beginner: Para quem está começando agora
 
