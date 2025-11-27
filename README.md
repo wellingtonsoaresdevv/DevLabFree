@@ -27,11 +27,12 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 
 > Se você está dando os primeiros passos na programação ou na área de tecnologia, recomendamos começar pelos fundamentos. Eles serão a base para qualquer linguagem ou especialização que você escolher no futuro. Entender como a programação funciona, ganhar confiança e criar seus primeiros projetos simples! :punch:
 
-## 🚨 Colabore
+## 🚨 Colabore [![GitHub stars](https://img.shields.io/github/stars/wellingtonsoaresdevv/DevLabFree?style=social)](https://github.com/wellingtonsoaresdevv/DevLabFree)
 
 - Abra Pull Requests com atualizações
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
+- Curtiu o conteúdo? Está sendo útil para os seus estudos? Então, dá aquela forcinha e deixa uma Star no repositório! ⭐
 
 ## 📚 ÍNDICE
 
@@ -764,6 +765,4 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 - [Powershell Advanced Tools and Scripting Full Course](https://www.youtube.com/watch?v=K4YDHFalAK8&ab_channel=Nerd%27slesson)
 - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58&ab_channel=JohnSavill%27sTechnicalTraining)
 
-
-[![GitHub stars](https://img.shields.io/github/stars/wellingtonsoaresdevv/DevLabFree?style=social)](https://github.com/wellingtonsoaresdevv/DevLabFree)
 
