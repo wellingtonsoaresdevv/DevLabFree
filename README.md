@@ -765,3 +765,5 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58&ab_channel=JohnSavill%27sTechnicalTraining)
 
 
+[![GitHub stars](https://img.shields.io/github/stars/wellingtonsoaresdevv/DevLabFree?style=social)](https://github.com/wellingtonsoaresdevv/DevLabFree)
+
