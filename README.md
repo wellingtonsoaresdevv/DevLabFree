@@ -9,23 +9,19 @@
 
 Aqui você encontra conteúdos gratuitos para aprender programação e outras áreas da tecnologia, do básico ao avançado. Nosso objetivo é ajudar você a construir sua carreira na área de TI, expandir seus conhecimentos e dominar novas ferramentas e linguagens. Todos os materiais são gratuitos, com foco em tornar seu aprendizado acessível e prático.
 
-## :closed_book: E-Book
-
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é simbólico e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento front-end.
-
-- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
-
 ## ⚠️ Aviso importante
 
-> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
+> Antes de tudo, você pode contribuir para manter este repositório sempre organizado e útil para quem está estudando ou trabalhando na área.
 
-- Me siga no [Github](https://github.com/arthurspk)
-- Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
-- Mande feedbacks no [Linkedin](https://www.linkedin.com/in/arthurspk/)
+- Me siga no [Github](https://github.com/wellingtonsoaresdevv)
 
 ## 💡 Nossa proposta
 
-> A proposta deste guia é fornecer conteúdos para seu estudo, para guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+> A proposta deste repositório é disponibilizar conteúdos gratuitos para apoiar seus estudos em tecnologia e programação, ajudando você a entender qual pode ser o próximo passo da sua jornada de aprendizado — sem se perder em modas passageiras ou “hypes” do momento.
+
+Acreditamos que, com um conhecimento mais amplo sobre linguagens, ferramentas e diferentes áreas da TI, você poderá fazer escolhas mais inteligentes sobre quais tecnologias fazem sentido para o seu futuro profissional.
+
+Lembre-se: seguir tendências pode ser interessante, mas sólidos fundamentos sempre serão seu maior diferencial.
 
 ## :beginner: Para quem está começando agora
 
