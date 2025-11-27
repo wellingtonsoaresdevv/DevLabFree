@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/arthurspk/guiadecybersecurity">
+  <a href="https://github.com/wellingtonsoaresdevv/DevLabFree">
     <img src="./images/aprenda-a-programar.png" alt="Aprenda a programar" width="160" height="160">
   </a>
-  <h1 align="center">Guia de Cyber Security</h1>
+  <h1 align="center">Aprenda a Programar de Graça</h1>
 </p>
 
 ## :dart: O guia para alavancar a sua carreira
