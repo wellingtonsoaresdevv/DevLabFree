@@ -36,6 +36,7 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 - Abra Pull Requests com atualizações
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
+- Envie links e sites gratuitos ensinando qualquer linguagem.
 
 ## 📚 ÍNDICE
 
