@@ -14,6 +14,10 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 > Antes de tudo, você pode contribuir para manter este repositório sempre organizado e útil para quem está estudando ou trabalhando na área.
 
 - Me siga no [Github](https://github.com/wellingtonsoaresdevv)
+- Curtiu o conteúdo? Está sendo útil para os seus estudos? Então, dá aquela forcinha e deixa uma Star no repositório! ⭐
+
+[![GitHub stars](https://img.shields.io/github/stars/wellingtonsoaresdevv/DevLabFree?style=social)](https://github.com/wellingtonsoaresdevv/DevLabFree)
+
 
 ## 💡 Nossa proposta
 
@@ -27,12 +31,11 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 
 > Se você está dando os primeiros passos na programação ou na área de tecnologia, recomendamos começar pelos fundamentos. Eles serão a base para qualquer linguagem ou especialização que você escolher no futuro. Entender como a programação funciona, ganhar confiança e criar seus primeiros projetos simples! :punch:
 
-## 🚨 Colabore [![GitHub stars](https://img.shields.io/github/stars/wellingtonsoaresdevv/DevLabFree?style=social)](https://github.com/wellingtonsoaresdevv/DevLabFree)
+## 🚨 Colabore 
 
 - Abra Pull Requests com atualizações
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
-- Curtiu o conteúdo? Está sendo útil para os seus estudos? Então, dá aquela forcinha e deixa uma Star no repositório! ⭐
 
 ## 📚 ÍNDICE
 
