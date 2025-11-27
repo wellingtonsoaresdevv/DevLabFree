@@ -768,9 +768,3 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 - [PowerShell For Beginners Full Course](https://www.youtube.com/watch?v=UVUd9_k9C6A&ab_channel=Nerd%27slesson)
 - [Powershell Advanced Tools and Scripting Full Course](https://www.youtube.com/watch?v=K4YDHFalAK8&ab_channel=Nerd%27slesson)
 - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58&ab_channel=JohnSavill%27sTechnicalTraining)
-
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=wellingtonsoaresdevv/DevLabFree&type=date&legend=top-left)](https://www.star-history.com/#wellingtonsoaresdevv/DevLabFree&type=date&legend=top-left)
