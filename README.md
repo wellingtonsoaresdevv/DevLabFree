@@ -57,6 +57,7 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 [🐋 Sites e cursos para aprender Docker](#-sites-e-cursos-para-aprender-docker) <br>
 [🐼 Sites e cursos para aprender Assembly](#-sites-e-cursos-para-aprender-assembly) <br>
 [🦞 Sites e cursos para aprender Powershell](#-sites-e-cursos-para-aprender-powershell) <br>
+[⚡ Sites e cursos para aprender JavaScript](#-sites-e-cursos-para-aprender-javascript) <br>
 
 ## 💻 Máquinas Virtuais
 
@@ -768,3 +769,9 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 - [PowerShell For Beginners Full Course](https://www.youtube.com/watch?v=UVUd9_k9C6A&ab_channel=Nerd%27slesson)
 - [Powershell Advanced Tools and Scripting Full Course](https://www.youtube.com/watch?v=K4YDHFalAK8&ab_channel=Nerd%27slesson)
 - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58&ab_channel=JohnSavill%27sTechnicalTraining)
+
+
+## ⚡ Sites e cursos para aprender JavaScript
+
+> Cursos para aprender Javascript em Português
+- [Javascript Completo, Profissional e Moderno - CFBCursos](https://www.youtube.com/watch?v=E4DBTqgxHGM&list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T)
