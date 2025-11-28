@@ -292,6 +292,7 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 - [Curso de Java Completo](https://www.youtube.com/playlist?list=PL6vjf6t3oYOrSx2XQKm3yvNxgjtI1A56P)
 - [Curso Programação Java](https://www.youtube.com/playlist?list=PLtchvIBq_CRTAwq_xmHdITro_5vbyOvVw)
 - [Curso de Java para Iniciantes](https://www.youtube.com/playlist?list=PLt2CbMyJxu8iQL67Am38O1j5wKLf0AIRZ)
+- [Curso de Java - Fernanda Kipper](https://www.youtube.com/watch?v=nODe5lFcGpg&list=PLNCSWIsR6ADI_wMAx9F-Iu8Hs9HHxj4sb)
 
 > Cursos para aprender Java em Espanhol
 - [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)
