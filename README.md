@@ -5,10 +5,6 @@
   <h1 align="center">Aprenda a Programar de Graça</h1>
 </p>
 
-
-[![Entre no nosso Discord](https://img.shields.io/badge/Discord-Entre%20na%20Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GfGqA8GD)
-
-
 ## :dart: Seu guia gratuito para começar na tecnologia
 
 Aqui você encontra conteúdos gratuitos para aprender programação e outras áreas da tecnologia, do básico ao avançado. Nosso objetivo é ajudar você a construir sua carreira na área de TI, expandir seus conhecimentos e dominar novas ferramentas e linguagens. Todos os materiais são gratuitos, com foco em tornar seu aprendizado acessível e prático.
@@ -20,7 +16,7 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 - Me siga no [Github](https://github.com/wellingtonsoaresdevv)
 - Curtiu o conteúdo? Está sendo útil para os seus estudos? Então, dá aquela forcinha e deixa uma Star no repositório! ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/wellingtonsoaresdevv/DevLabFree?style=social)](https://github.com/wellingtonsoaresdevv/DevLabFree)
+[![Entre no nosso Discord](https://img.shields.io/badge/Discord-Entre%20na%20Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GfGqA8GD)
 
 
 ## 💡 Nossa proposta
