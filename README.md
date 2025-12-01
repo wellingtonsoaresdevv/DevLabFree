@@ -16,7 +16,7 @@ Aqui você encontra conteúdos gratuitos para aprender programação e outras á
 - Me siga no [Github](https://github.com/wellingtonsoaresdevv)
 - Curtiu o conteúdo? Está sendo útil para os seus estudos? Então, dá aquela forcinha e deixa uma Star no repositório! ⭐
 
-[![Entre no nosso Discord](https://img.shields.io/badge/Discord-Entre%20na%20Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GfGqA8GD)
+[![Entre no nosso Discord](https://img.shields.io/badge/Discord-Entre%20na%20Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xvxu4DYWSe)
 
 
 ## 💡 Nossa proposta
