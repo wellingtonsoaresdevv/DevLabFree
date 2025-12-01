@@ -5,6 +5,10 @@
   <h1 align="center">Aprenda a Programar de Graça</h1>
 </p>
 
+
+[![Entre no nosso Discord](https://img.shields.io/badge/Discord-Entre%20na%20Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GfGqA8GD)
+
+
 ## :dart: Seu guia gratuito para começar na tecnologia
 
 Aqui você encontra conteúdos gratuitos para aprender programação e outras áreas da tecnologia, do básico ao avançado. Nosso objetivo é ajudar você a construir sua carreira na área de TI, expandir seus conhecimentos e dominar novas ferramentas e linguagens. Todos os materiais são gratuitos, com foco em tornar seu aprendizado acessível e prático.
